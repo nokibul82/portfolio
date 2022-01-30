@@ -105,6 +105,10 @@ hr{
 	
 }
 
+.links{
+	flex-flow: column;
+}
+
 
 .contact-msg {
 	width: 30%;
